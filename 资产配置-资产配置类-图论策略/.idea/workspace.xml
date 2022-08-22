@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c93b5902-20ab-4c7c-82c7-5db004237686" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-直接指标选股/.idea/基金-资产配置-直接指标选股.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../基金-资产配置类-调仓表/.idea/资产配置-多因子选股-调仓表.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/.idea/套利类-伦敦突破策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/LondonBreakout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/data/eurusd.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/doc/伦敦突破策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/result/LB_Strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-套利类-伦敦突破策略/result/daily_Strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/.idea/趋势类-BollingerBands.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/BollingerBandsPatterns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/data/usdcny.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/doc/BollingerBands策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-BollingerBands/result/Bollinger_bands.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/.idea/趋势类-Dual Thrust策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/DualThrust.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/data/eurusd.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/doc/DualThrust策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-Dual Thrust策略/result/Dual_Thrust.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/.idea/期货-趋势类-菲阿里四价策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../外汇-趋势类-菲阿里四价策略/Fairy4price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/.idea/择时类-原油价格.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/Oil Money Trading backtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/data/brent crude nokjpy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/doc/原油价格影响外汇策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/result/Total Assets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../大宗商品-择时类-原油价格/result/positions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-三均线策略/.idea/指数-择时类-三均线策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/.idea/择时类-动量震荡指标策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/Awesome oscillator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/data/HS300Data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/doc/动量振荡指标策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/Awesome_moving_average.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/Awesome_versus_MACD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/MACD_moving_average.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/Oscillator.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/positions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-动量震荡指标策略/result/stats.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-抛物线转向指标" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/Shooting-Star.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/data/HS300Data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/doc/流星策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-择时类-流星策略/result/K_plot_curve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/.idea/指数-机器学习-CNN网络.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/CNN_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/CNN_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-CNN网络/doc/CNN网络策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/.idea/指数-机器学习类-KD指标.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/doc/深度Q网络KD指标策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-KD指标/result/traing_testing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/.idea/机器学习类-LSTM预测股价.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/StockPricePrediction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-机器学习类-LSTM预测股价/doc/LSTM预测股价.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/.idea/趋势类-Hurst指数策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/data/price.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/doc/Hurst指数策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/doc/国海证券＊策略研究＊Hurst指标预警：震荡下跌分形结构失衡，参与反弹须谨慎＊＊＊金融工程团队.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/doc/国海证券＊量化策略＊Hurst分形结构发生变化，A股调整将持续＊程志田.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/doc/国都证券-策略研究-专题研究-hurst指数在a股市场中的应用.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/hurst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/result/Hurst_eh_value.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-Hurst指数策略/result/hurst.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/.idea/趋势类-MACD策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/MACDOscillator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/data/HS300data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/doc/MACD策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/result/MACD_Oscillatot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-MACD策略/result/positions_strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/.idea/趋势类-相对强度指标.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/RSIPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/data/HS300data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/doc/RSI策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/result/RSI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-相对强度指标/result/positions_strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/.idea/趋势类-蒙特卡洛模拟预测沪深300指数.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/MonteCarlo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/data/HS300data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/doc/蒙特卡洛策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/result/prediction_accuracy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/result/simulation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蒙特卡洛模拟预测沪深300指数/result/training_versus_testing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/.idea/趋势类-蜘蛛网策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/ITSMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../指数-趋势类-蜘蛛网策略/doc/蜘蛛网策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/.idea/套利类-伦敦突破策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/LondonBreakout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/data/eurusd.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/doc/伦敦突破策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/result/LB_Strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-伦敦突破策略/result/daily_Strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/.idea/套利类-配对交易策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/PairTrading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/data/DJI.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/data/NVDA.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/doc/配对交易策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/result/Pait_trading_strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-套利类-配对交易策略/result/total_assets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/.idea/择时类-CTA海龟交易策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/CTA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-CTA海龟交易策略/doc/CTA策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/.idea/择时类-Heikin-Ashi策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/Heijin-Ashi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/data/DJI.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/data/NVDA.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/doc/Heikin-Ashi策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/result/HA_strategy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/result/Positions_total_assets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-择时类-Heikin-Ashi策略/result/stats.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/.idea/趋势类-BollingerBands.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/BollingerBandsPatterns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/data/usdcny.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/doc/BollingerBands策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-BollingerBands/result/Bollinger_bands.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/.idea/趋势类-Dual Thrust策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/DualThrust.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/data/eurusd.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/doc/DualThrust策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/requirements_Freeze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/requirements_Sync.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-Dual Thrust策略/result/Dual_Thrust.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/.idea/期货-趋势类-菲阿里四价策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/Fairy4price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../期货-趋势类-菲阿里四价策略/doc/菲阿里四价策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/资产配置类-图论策略.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphPlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/资产组合配置图论策略说明.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/Optimizations Params.xls" beforeDir="false" afterPath="$PROJECT_DIR$/result/Optimizations Params.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/clique centrality distribution.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/result/clique centrality distribution.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/clique centrality.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/result/clique centrality.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/degeneracy_ordering.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/result/degeneracy_ordering.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/optimal correlation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/result/optimal correlation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/optimal correlation_cq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/result/optimal correlation_cq.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2De8ngl37SWQW2EGl3xAmPOb80j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../指数-择时类-三均线策略" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c93b5902-20ab-4c7c-82c7-5db004237686" name="Changes" comment="" />
+      <created>1661048370440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661048370440</updated>
+      <workItem from="1661048393221" duration="1005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

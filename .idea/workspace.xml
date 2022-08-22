@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="整体提交仓库">
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-直接指标选股/DirectIndex_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-直接指标选股/doc/Backtrader常见案例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-直接指标选股/result/Portfolio position value.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-调仓表/doc/Backtrader常见案例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-调仓表/result/position value.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基金-资产配置类-调仓表/result/total cash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/外汇-趋势类-菲阿里四价策略/Fairy4price_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/外汇-趋势类-菲阿里四价策略/doc/源代码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-择时类-三均线策略/doc/Backtrader常见案例.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-择时类-三均线策略/result/positions_strategy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/CNN网络策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/.ipynb_checkpoints/Test model by yearline-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_draw_yearline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_img_closePrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_yearline_reward.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/Test model by yearline.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/network-dqn-652000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/network-dqn-652000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/year_test/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/.ipynb_checkpoints/CNN_Classifier-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/CNN_Classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/bn_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test_pred10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test_rsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_pred10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_rsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/3.DQN_MLP_closePrice/DQN_ori.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/DQN_kd_pic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD_draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/DistributedTensorFlow&amp;StockPred.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/KD_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/closePrice_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/cnn_tsc_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/cnn_tsc_when.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/tensorflow股票預測_大綱.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/yearline_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/.ipynb_checkpoints/Test model by yearline-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_draw_yearline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_img_closePrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/DQN_yearline_reward.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/Test model by yearline.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/network-dqn-652000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/saved_year_r/network-dqn-652000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/1.DQN_CNN_image/year_test/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/.ipynb_checkpoints/CNN_Classifier-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/CNN_Classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/bn_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test_pred10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_test_rsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_pred10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/2.CNN_tsc/data/2330_train_rsi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/3.DQN_MLP_closePrice/DQN_ori.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/DQN_kd_pic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/4.DQN_KD_value/KD_draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/DistributedTensorFlow&amp;StockPred.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/KD_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/closePrice_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/cnn_tsc_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/cnn_tsc_when.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/tensorflow股票預測_大綱.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/Tensorflow-for-stock-prediction-master (1)/Tensorflow-for-stock-prediction-master/graph/yearline_rst.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/doc/深度Q网络KD指标策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/StockPricePrediction_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/LSTM预测股价.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/Stock-Price-Prediction-LSTM-master (1)/Stock-Price-Prediction-LSTM-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/Stock-Price-Prediction-LSTM-master (1)/Stock-Price-Prediction-LSTM-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/Stock-Price-Prediction-LSTM-master (1)/Stock-Price-Prediction-LSTM-master/StockPricePrediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/Stock-Price-Prediction-LSTM-master (1)/Stock-Price-Prediction-LSTM-master/apple_share_price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/doc/Stock-Price-Prediction-LSTM-master (1)/Stock-Price-Prediction-LSTM-master/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/result/close_price.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/result/predict_train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-机器学习类-LSTM预测股价/result/result.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-趋势类-蜘蛛网策略/ITSMain_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/指数-趋势类-蜘蛛网策略/doc/蜘蛛网策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-择时类-CTA海龟交易策略/CTA_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-择时类-CTA海龟交易策略/doc/CTA策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-择时类-CTA海龟交易策略/doc/turtle-trading-strategy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-择时类-CTA海龟交易策略/doc/turtlerules.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-趋势类-菲阿里四价策略/Fairy4price_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-趋势类-菲阿里四价策略/doc/源代码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/期货-趋势类-菲阿里四价策略/doc/菲阿里四价策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/.idea/资产配置-资产配置类-图论策略.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/GraphPlot_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/doc/资产组合配置图论策略说明.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/result/Mean Variance Analysis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资产配置-资产配置类-图论策略/result/Normalized Comparison.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DhdSzA1mQs5tJ3tZ7mVCNSj9sN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="" />
+      <created>1661155270925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661155270925</updated>
+      <workItem from="1661155272537" duration="68000" />
+    </task>
+    <task id="LOCAL-00001" summary="整体提交仓库">
+      <created>1661155313836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661155313836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="整体提交仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="整体提交仓库" />
+  </component>
+</project>
