@@ -226,6 +226,7 @@ plt.plot(close_line, label='closePrice', linewidth=5, color=[0, 0, 1])
 plt.plot(new_buy, 'ro', label='Buy at', linewidth=1, color=[1, 0, 0])
 plt.title("When To Buy?(" + startDay + "~" + endDay + ")")
 plt.legend(bbox_to_anchor=(1.05, 1), loc=2, borderaxespad=0.)
+plt.savefig(r'result\result.jpg')
 plt.show()
 
 
