@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="整体提交仓库" />
+    <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1ad07bd7-8f83-4ca8-a52d-bc75b7f5ba9e" />
+        <option name="url" value="git@github.com:Jiarui-Lu/BankQuantIntern.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2DhdSzA1mQs5tJ3tZ7mVCNSj9sN" />
   <component name="ProjectLevelVcsManager">
@@ -23,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SentimentAnalysis" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661155270925</updated>
       <workItem from="1661155272537" duration="366000" />
+      <workItem from="1661314350514" duration="93000" />
+      <workItem from="1661327939817" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="整体提交仓库">
       <created>1661155313836</created>
@@ -50,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661155395048</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="整体提交仓库">
+      <created>1661314430055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661314430055</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
