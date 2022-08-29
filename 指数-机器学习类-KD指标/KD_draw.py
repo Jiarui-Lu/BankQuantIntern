@@ -49,19 +49,6 @@ for i in range(len(stock_data.index)):
                 util.pop(0)
                 assert len(util) == 8
 
-
-def draw(arrlist,name):
-    new = np.zeros((len(arrlist)-15), dtype=np.float)
-    print(len(arrlist))
-    for x in range(0,len(arrlist)-15):#save file
-        for y in range(0,15):#save file
-            print(arrlist[x+y])
-            new[y]=arrlist[x+y]
-            plt.plot(new,label='K',linewidth=5)
-            plt.axis([0, 14, 0, 1])
-            plt.savefig('/'+name+'/'+str(x)+'.png')
-            plt.close()
-
 def drawkd(k,d):
     newk = np.zeros((len(k)-15), dtype=np.float)
     newd = np.zeros((len(d)-15), dtype=np.float)
@@ -76,6 +63,7 @@ def drawkd(k,d):
             plt.legend()
             plt.savefig(r'result\KD_{}.png'.format(str(x)))
             plt.close()
-# #draw(K,"k")
-# #draw(D,"d")
+        if x==50:
+            break
+
 drawkd(K,D)

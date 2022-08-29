@@ -12,7 +12,10 @@ import cv2
 import time
 import matplotlib.image as pimg
 import pandas as pd
+import KD_draw
 # In[2]:
+
+KD_draw
 
 day_len = 15   # 每筆資料的日期天數
 
@@ -87,9 +90,9 @@ my_img = my_img[:cross, ]
 label_test = label_train[cross:, ]
 label_train = label_train[:cross, ]
 
-x = open("2330KD_1pic.txt", "w")
+x = open(r"result\2330KD_1pic.txt", "w")
 x.close()
-fo = open("2330KD_1pic.txt", "a")
+fo = open(r"result\2330KD_1pic.txt", "a")
 
 
 # In[8]:
@@ -319,9 +322,9 @@ class DQN():
 
 # Hyper Parameters
 ENV_NAME = 'CartPole-v0'
-EPISODE = 100  # Episode limitation
-STEP = 10  # 300 # Step limitation in an episode
-TEST = 1  # The number of experiment test every 100 episode
+EPISODE = 15  # Episode limitation
+STEP = 2  # 300 # Step limitation in an episode
+TEST = 2  # The number of experiment test every 100 episode
 
 
 def main():
@@ -362,37 +365,38 @@ def main():
                 p += float(anal[x])
             elif (float(anal[x]) < 0):
                 n += float(anal[x])
-
-        rate = round(p / (n * (-1) + p), 2)
-        rate_string += str(rate) + " "
-        fo.write(out + "\n")
-        train_output += str(train_reward) + " "
-        # Test every 100 episodes
-        if episode % 10 == 0:
-            out = "test\n"
-            env1 = TWStock(my_test, label_test)
-            total_reward = 0
-
-            for i in range(TEST):
-                state = env1.reset()
-
-                for j in range(STEP):
-                    env1.render()
-                    action = agent.action(state)  # direct action for test
-                    state, reward, done, _ = env1.step(action)
-                    out += str(action) + " " + str(reward) + ","
-                    total_reward += reward
-                    if done:
-                        break
+        try:
+            rate = round(p / (n * (-1) + p), 2)
+            rate_string += str(rate) + " "
             fo.write(out + "\n")
-            ave_reward = total_reward / TEST
-            print(train_output)
-            train_output = ""
-            print('episode: ', episode, 'Evaluation Average Reward:', ave_reward, 'training Rate past10:', rate_string)
-            rate_string = ""
-            if ave_reward >= 2000:
-                print('程式結束')
-                break
+            train_output += str(train_reward) + " "
+            # Test every 100 episodes
+            if episode % 10 == 0:
+                out = "test\n"
+                env1 = TWStock(my_test, label_test)
+                total_reward = 0
+
+                for i in range(TEST):
+                    state = env1.reset()
+
+                    for j in range(STEP):
+                        env1.render()
+                        action = agent.action(state)  # direct action for test
+                        state, reward, done, _ = env1.step(action)
+                        out += str(action) + " " + str(reward) + ","
+                        total_reward += reward
+                        if done:
+                            break
+                fo.write(out + "\n")
+                print(train_output)
+                train_output = ""
+                print('episode: ', episode, 'Total Return:', total_reward, 'training Rate past10:', rate_string)
+                rate_string = ""
+        except:
+            pass
+    print('程式結束')
+    df=pd.DataFrame([total_reward],columns=['Total Return'])
+    df.to_excel(r'result\total return.xls')
 
 
 if __name__ == '__main__':
