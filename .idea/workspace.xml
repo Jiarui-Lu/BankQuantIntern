@@ -2,58 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-套利类-伦敦突破策略/LondonBreakout_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-套利类-伦敦突破策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-趋势类-BollingerBands/BollingerBandsPatterns_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-趋势类-BollingerBands/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-趋势类-Dual Thrust策略/DualThrust_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/外汇-趋势类-Dual Thrust策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/大宗商品-择时类-原油价格/Oil Money Trading backtest_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/大宗商品-择时类-原油价格/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-动量震荡指标策略/Awesome oscillator_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-动量震荡指标策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-抛物线转向指标/ParabolicSAR_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-抛物线转向指标/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-流星策略/Shooting-Star_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-择时类-流星策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-MACD策略/MACDOscillator_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-MACD策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-相对强度指标/RSIPattern_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-相对强度指标/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-蒙特卡洛模拟预测沪深300指数/MonteCarlo_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/指数-趋势类-蒙特卡洛模拟预测沪深300指数/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-套利类-伦敦突破策略/LondonBreakout_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-套利类-伦敦突破策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-套利类-配对交易策略/PairTrading_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-套利类-配对交易策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-择时类-Heikin-Ashi策略/Heijin-Ashi_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-择时类-Heikin-Ashi策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-趋势类-BollingerBands/BollingerBandsPatterns_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-趋势类-BollingerBands/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-趋势类-Dual Thrust策略/DualThrust_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-趋势类-Dual Thrust策略/doc/~$alThrust策略说明.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Github-quant-trading/期货-趋势类-Dual Thrust策略/doc/原项目文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/外汇-趋势类-菲阿里四价策略/doc/参考网页内容：菲阿里四价(期货).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-择时类-三均线策略/ThreeMovingAverage_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-择时类-低延迟趋势线（附研报）/LowLagTrendline_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-CNN网络/doc/CNN_Classifier.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/.idea/指数-机器学习类-KD指标.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/指数-机器学习类-KD指标/result/total return.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-套利类-双重上市/.idea/期货-套利类-双重上市.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/期货-趋势类-菲阿里四价策略/doc/参考网页内容：菲阿里四价(期货).docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +51,10 @@
       <workItem from="1661525096757" duration="187000" />
       <workItem from="1661781759321" duration="666000" />
       <workItem from="1661825862498" duration="48000" />
+      <workItem from="1662024768907" duration="9000" />
+      <workItem from="1662041773963" duration="650000" />
+      <workItem from="1662084401976" duration="29000" />
+      <workItem from="1662086273143" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="整体提交仓库">
       <created>1661155313836</created>
@@ -139,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661781812340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="整体提交仓库">
+      <created>1662084414705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662084414705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
