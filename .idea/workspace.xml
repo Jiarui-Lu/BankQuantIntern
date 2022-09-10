@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SentimentAnalysis" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +62,8 @@
       <workItem from="1662380109446" duration="302000" />
       <workItem from="1662439415864" duration="167000" />
       <workItem from="1662519910882" duration="758000" />
+      <workItem from="1662535274570" duration="161000" />
+      <workItem from="1662562262245" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="整体提交仓库">
       <created>1661155313836</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662439446978</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="整体提交仓库">
+      <created>1662535285517</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662535285517</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
