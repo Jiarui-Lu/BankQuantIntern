@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/apm_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/apm_raw.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/data/stock_30min_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/data/stock_daily_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/doc/20200307-开源证券-市场微观结构研究系列（5）：APM因子模型的进阶版.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/doc/APM因子模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/doc/APM因子策略说明.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/doc/github源代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/readdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/requirements_Freeze.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/requirements_Sync.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/all factors cumulative return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/apm_1 return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/apm_2 return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/apm_3 return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/apm_new return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/apm_raw return.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基金-资产配置类-APM因子（附研报）/result/factor_df.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/apm_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/apm_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/data/stock_30min_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/data/stock_daily_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/doc/20200307-开源证券-市场微观结构研究系列（5）：APM因子模型的进阶版.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/doc/APM因子模型.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/doc/APM因子策略说明.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/doc/github源代码.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/readdata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/requirements_Freeze.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/requirements_Sync.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/all factors cumulative return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/apm_1 return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/apm_2 return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/apm_3 return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/apm_new return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/apm_raw return.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/指数-择时类-APM因子（附研报）/result/factor_df.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="faa2316e-9a3b-4bac-94db-c2295cc70320" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git-FactorLib-LuJiaRui2-Submit" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -110,7 +71,7 @@
       <workItem from="1663985240725" duration="472000" />
       <workItem from="1663991699101" duration="32000" />
       <workItem from="1664185610882" duration="346000" />
-      <workItem from="1665417117018" duration="443000" />
+      <workItem from="1665417117018" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="整体提交仓库">
       <created>1661155313836</created>
@@ -217,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665417138307</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="整体提交仓库">
+      <created>1665417572015</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665417572015</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
