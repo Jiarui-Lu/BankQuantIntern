@@ -17,6 +17,7 @@ import re
 from keras.models import load_model
 from gensim.models.word2vec import Word2Vec
 from pathlib import Path
+import pickle
 
 
 class PrepareData(object):
@@ -217,7 +218,10 @@ class NullTest(object):
 ②是否包含注释行header并去除注释行（默认为无）
 ③是否包含索引列（默认为无），一般可选择第0列为索引
 ④选择编码方式（默认为utf-8），部分csv文件可选ISO-8859-1
-（3）读取h5模型和pkl模型
+（3）读取pkl模型
+采取pickle读取文件
+存在Python3和Python2的版本问题
+将两者进行相互转化
 （4）读取txt文件
 默认按行读取
 '''
@@ -247,8 +251,19 @@ class DataLoad(object):
         return model
 
     def Loadpkl(self, pkl):
-        model = Word2Vec.load(pkl)
-        return model
+        try:
+            with open(pkl, 'rb') as f:
+                w = pickle.load(f)
+            return w
+        except:
+            try:
+                with open(pkl, 'rb') as f:
+                    w = pickle.load(f)
+                pickle.dump(w, open(pkl, 'wb'), protocol=2)
+                return w
+            except:
+                model = Word2Vec.load(pkl)
+                return model
 
     def Loadtxt(self, txt):
         text_list = []
@@ -310,12 +325,12 @@ if __name__ == '__main__':
     # eodprices = pd.read_csv(r'wind-1\ashareeodprices.csv')[:100]     # , index_col=2
     # eodprices.to_csv('ashareeodprices_100,csv')
     l = DataLoad()
-    eodprices = l.Loadcsv('ashareeodprices_100.csv', header=None, index_col=0)
-    model1 = l.Loadh5('LSTM_model.h5')
+    # eodprices = l.Loadcsv('ashareeodprices_100.csv', header=None, index_col=0)
+    # model1 = l.Loadh5('LSTM_model.h5')
     model2 = l.Loadpkl('Word2vec_model.pkl')
     model3 = l.Loadtxt('tsinghua.negative.txt')
-    # indIndex = pd.read_csv(r'industry_zx_CN_STOCK_A\industry_zx_CN_STOCK_A.csv') [:100]   # , index_col=0
-    # indIndex.to_csv('industry_zx_CN_STOCK_A_100.csv.csv')
+    indIndex = pd.read_csv(r'industry_zx_CN_STOCK_A\industry_zx_CN_STOCK_A.csv')[:100]  # , index_col=0
+    indIndex.to_csv('industry_zx_CN_STOCK_A_100.csv.csv')
     indIndex = l.Loadcsv('industry_zx_CN_STOCK_A_100.csv.csv', header=None, index_col=0, encoding='ISO-8859-1')
     eodprices_col_list = ["S_DQ_PRECLOSE", "S_DQ_OPEN"]
     z = NullTest()
