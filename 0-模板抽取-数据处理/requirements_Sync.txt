@@ -1,0 +1,4 @@
+pandas==1.1.5
+numpy==1.19.5
+Keras==2.2.0
+gensim==3.0.0
